@@ -171,13 +171,14 @@ The main objectives of NLC Higher Secondary School are
 ```
 
 ## Output:
-![OUTPUT](./images/anto chruch.png)
-![OUTPUT](./images/bank.png)
-![OUTPUT](./images/bus stand.png)
-![OUTPUT](./images/maps.png)
-![OUTPUT](./images/mine.png)
-![OUTPUT](./images/nlc scl.png)
-![OUTPUT](./images/no error.png)
+![maps](https://user-images.githubusercontent.com/118679883/212554638-07dc0006-a84e-433e-a9dd-5090da04abcb.png)
+![bank](https://user-images.githubusercontent.com/118679883/212554658-102179d6-4232-49ce-b983-d0e6a8ec1109.png)
+![mine](https://user-images.githubusercontent.com/118679883/212554670-0c47f933-8241-467c-8ab5-5d2982d68134.png)
+![bus stand](https://user-images.githubusercontent.com/118679883/212554690-33719ae2-ec01-46ea-8067-b6b5f97dd2a7.png)
+![nlc scl](https://user-images.githubusercontent.com/118679883/212554725-8771e8f7-0030-4f39-9685-f1278ebc906c.png)
+![anto chruch](https://user-images.githubusercontent.com/118679883/212554743-4a014297-aaf9-4a8e-b69b-25f75c3593d1.png)
+![no error](https://user-images.githubusercontent.com/118679883/212554760-1a6fba6a-3349-45c0-8a24-3d45e234dfc5.png)
+
 
 ## Result:
 The program executed successfully
